@@ -49,5 +49,11 @@ p {
     display: inline-block;
 }
 
+footer {
+    background-color: rgb(103, 201, 168);
+    height: 150px;
+    font-family: 'Oooh Baby', cursive;
+    display: inline;
+}
 
 
